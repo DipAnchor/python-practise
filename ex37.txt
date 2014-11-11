@@ -13,3 +13,4 @@
     else 跟if 搭配用
     if 条件
     pass 空语句，保持程序结构用
+    yield 
