@@ -1,11 +1,12 @@
 def digital_root(n):
     chars=str(n)
-    sum=int(n)
-    while int(sum)>10:
-        add=0
-        for i in range(0,len(chars),1):
-            add+=int(chars[i])
-        sum=add
-    return sum
+    add=0
+    for i in range(0,len(chars),1):
+         add+=int(chars[i])
+    if add<10:
+        return add
+    else:
+        return digital_root(add)
+    
 
-print digital_root(333)
+print digital_root(1245)
