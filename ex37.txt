@@ -1,0 +1,15 @@
+"""
+    and 与
+    del 删除元素 usage-> del (a[]) 
+                             a[2:4]=del 2,3
+    from 从文件导入
+    not 否
+    while 当True,Loop
+    as 作为。多种用途，with as 抛出作为对象
+    elif = else if
+    global 全局变量定义
+    or 或
+    with 异常处理用
+    else 跟if 搭配用
+    if 条件
+    pass 空语句，保持程序结构用

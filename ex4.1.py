@@ -1,0 +1,1 @@
+print "Hey %s %d there." % "you." %d "guy."

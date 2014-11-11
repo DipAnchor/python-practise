@@ -1,0 +1,12 @@
+|ex|name|usage|
+|1|print|print something on sceen|
+|2|#|mark some notes|
+|3|+ - * / | add, subtract, multiply, divide|
+|3|>= <= > <| larger or equal, smaller or equal, larger, smaller|
+|4|"%" % | %r, %d, %s means different types of placeholder , while printing placeholders will be replace by elements after %.|
+|4|","|","may be two space in printing|
+|5|float| number with dots|
+|5| %d | placeholder of type int|
+|6| + | "+" can link two string togeter |
+|6| coding:utf-8 | make file compiled in utf-8|
+|7| ""* number| make what "" contains repeat number times |
