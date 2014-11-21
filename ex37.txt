@@ -13,4 +13,32 @@
     else 跟if 搭配用
     if 条件
     pass 空语句，保持程序结构用
-    yield 
+    yield 优化代码减少内存占用用
+    break 跳出当前循环
+    except 配合try,try……except,在try出现异常时候执行except语句
+    import 导入包
+    print 输出
+    class 类
+    exec 将后续语句做python命令执行
+    in ，a in b（返回TF）->a是b的元素，注意元素！=子集。for..in..做循环用
+    raise 若程序出现raise 句中异常，raise之后语句都不会被执行。
+    continue 跳出当前轮循环，进入下一轮循环
+    finally try...finally 抛出异常后，终止程序前调用
+    is ，比较前后对象id返回TF
+    return 返回
+    def 函数声明
+    for for循环
+    lambda 匿名函数 {def f(x):
+                    return x**2
+                    print f(4)
+                    Python中使用lambda的话，写成这样
+                    g = lambda x : x**2
+                    print g(4)}
+    try 处理异常
+“”“
+
+”“”
+    \\ ->\
+    \' ->'
+    \" ->"
+    \a
