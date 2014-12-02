@@ -41,4 +41,40 @@
     \\ ->\
     \' ->'
     \" ->"
-    \a
+    \a 响铃
+    \b 退格
+    \f 换页
+    \n 换行
+    \r 回车
+    \t 横向制表符
+    \v 纵向制表符
+
+"""
+
+"""
+    %d ->int
+    %i ->int
+    %o ->no signed eight
+    %u ->no signed ten
+    %x ->no signed sixteen (uncapitalize)
+    %X ->no signed sixteen (capitalize)
+    %e ->flout in scientific (uncapitalize)
+    %E ->flout in scientific (capitalize)
+    %f ->flout in ten
+    %F ->flout in ten
+    %g ->sometimes like %e others like %f
+    %G ->sometimes like %E others like %F
+    %C ->single char
+    %r ->any object to string through repr
+    %s ->any object to string through str()
+    %% ?
+
+"""
+
+"""
+    // ->four out five in
+    <> ->equals !=
+    ** -> a**b ->a*a*......*a->a^b
+
+"""
+
