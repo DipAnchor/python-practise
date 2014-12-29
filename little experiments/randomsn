@@ -1,0 +1,6 @@
+str0=("35752205")
+
+nums=raw_input("numbers U want:/n")
+
+for i in range(1,nums):
+    
